@@ -1,2 +1,2 @@
 # Intro_to_python
-A series of Jupyter notebooks for teaching Python to data analytics students.
+A series of Jupyter notebooks introducing data analytics students to Python programming.
